@@ -1,0 +1,57 @@
+input{
+    width: 1.5cm;
+    border: 1.5px solid rgb(136, 255, 0);
+    height: 1.5cm;
+   text-align: center;
+   
+
+}
+.a2{
+    font-size: 35px;
+
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+}
+.bor{
+    border-right: 3px solid rgb(136, 255, 0);
+}
+.bir{
+    border-left: 3px solid rgb(136, 255, 0);
+
+}
+.bot{
+    border-bottom: 3px solid rgb(136, 255, 0);
+
+}
+.top{
+    border-top: 3px solid rgb(136, 255, 0);
+
+}
+
+button{
+    width: 13.5cm;
+    margin-left: 28%;
+}
+p{
+    font-size: x-large;
+}
+body{
+    display: flex;
+    flex-direction: row;
+}
+.a1{
+    width: 35%;
+    margin-top: 2%;
+}
+.a1 button{
+    width: 5.5cm;
+    margin-right: 28%;
+    font-size: larger;
+}
+.a1 p{
+    margin-left: 1.9cm;
+}
